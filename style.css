@@ -30,7 +30,7 @@ h1 {
     text-align: center;
 }
 
-img {
+.round-img {
     border-radius: 50%;
 }
 
@@ -43,6 +43,10 @@ a:hover,
 a:active,
 a:focus {
     color: rgb(44, 83, 132);
+}
+
+img {
+    width: 50%;
 }
 
 footer {
